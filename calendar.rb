@@ -10,4 +10,4 @@ class Calendar
   end
 end
 
-puts Calendar.new(4, 2007)
+puts Calendar.new(2, 1978)
